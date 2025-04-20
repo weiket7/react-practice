@@ -9,3 +9,7 @@ Tailwind CSS 4
 https://developer.themoviedb.org/docs/getting-started
 
 `npm run dev`
+
+<br>
+
+![image info](image.png)
